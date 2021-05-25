@@ -1,0 +1,20 @@
+Python 3.7
+
+Detector
+
+torch==1.4.0 +
+torchvision==0.5.0 +
+numpy
+opencv-python
+time
+tensorflow==2.4.0
+
+Classifier
+
+tensorflow==2.4.0
+timeit
+numpy
+opencv-python
+pandas
+PIL
+matplotlib.pyplot

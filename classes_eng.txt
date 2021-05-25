@@ -1,0 +1,43 @@
+Speed limit 20 km/h
+Speed limit 30 km/h
+Speed limit 50 km/h
+Speed limit 60 km/h
+Speed limit 70 km/h
+Speed limit 80 km/h
+Restriction ends 80 km/h
+Speed limit 100 km/h
+Speed limit 120 km/h
+No overtaking
+No overtaking (trucks)
+Priority at next intersection
+Priority road 
+Give way
+Stop
+No traffic both ways
+No trucks
+No entry
+Danger
+Bend left
+Bend right
+Bend
+Uneven road
+Slippery road
+Road narrows
+Construction
+Traffic signal
+Pedestrian crossing
+School crossing
+Cycles crossing
+Snow
+Animals
+Restriction ends
+Go right
+Go left
+Go straight
+Go right or straight
+Go left or straight
+Keep right
+Keep left
+Roundabout
+Restriction ends
+Restriction ends

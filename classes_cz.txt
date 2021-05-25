@@ -1,0 +1,43 @@
+Nejvyssi dovolena rychlost 20 km/h
+Nejvyssi dovolena rychlost 30 km/h
+Nejvyssi dovolena rychlost 50 km/h
+Nejvyssi dovolena rychlost 60 km/h
+Nejvyssi dovolena rychlost 70 km/h
+Nejvyssi dovolena rychlost 80 km/h
+Konec nejvyssi dovolene rychlosti 80 km/h
+Nejvyssi dovolena rychlost 100 km/h
+Nejvyssi dovolena rychlost 120 km/h
+Zakaz predjizdeni
+Zakaz predjizdeni pro nakladni automobily
+Krizovatka s vedlejsi pozemni komunikaci
+Hlavni pozemni komunikace
+Dej prednost v jizde
+STOP
+Zakaz vjezdu vsech vozidel (v obou smerech)
+Zakaz vjezdu nakladnich automobilu
+Zakaz vjezdu vsech vozidel
+Jine nebezpeci
+Zatacka vlevo
+Zatacka vpravo
+Dvojita zatacka
+Nerovnost vozovky
+Nebezpeci smyku
+Zuzena vozovka
+Prace na silnici
+Svetelne signaly
+Chodci
+Deti
+Cykliste
+Naledi
+Zver
+Konec vsech zakazu
+Prikazany smer jizdy vpravo
+Prikazany smer jizdy vlevo
+Prikazany smer jizdy primo
+Prikazany smer jizdy primo a vpravo
+Prikazany smer jizdy primo a vlevo
+Prikazany smer objizdeni vpravo
+Prikazany smer objizdeni vlevo
+Kruhovy objezd
+Konec zakazu predjizdeni
+Konec zakazu predjizdeni pro nakladni automobily
