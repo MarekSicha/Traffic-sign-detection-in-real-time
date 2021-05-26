@@ -4,7 +4,7 @@ This code is part of bachelor´s thesis, focused on Traffic signs detection. The
 
 **This repository contains 2 main parts: Classifier and Detector**
 
-The requirements of python packages for any part are listed in this [file](requirements.txt)
+The requirements of python packages for any part are listed in this [file](requirements.txt).
 
 ## Classifier
 
