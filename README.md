@@ -14,7 +14,7 @@ The classifier was trained for 42 classes on [GTSRB](https://benchmark.ini.rub.d
 
 [classifier_train.py](classifier_train.py) you can use this script to train your own classifier on your custom dataset.  
 
-*Just make sure your datset has this structure:*
+*Just make sure your dataset has this structure:*
 
     dataset_name/
         -class_name_0/
