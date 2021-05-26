@@ -15,13 +15,13 @@ The classifier was trained for 42 classes on [GTSRB](https://benchmark.ini.rub.d
 [classifier_train.py](classifier_train.py) you can use this script to train your own classifier on your custom dataset.  
 
 *Just make sure your dataset has this structure:*
-
+~~~~
     dataset_name/
         -class_name_0/
             -image_id.ppm
         -class_name_1/
             -image_id.ppm
-            
+ ~~~~           
 [traffic_sign_classifier.py](traffic_sign_classifier.py) the usage of this script is for testing the classifier. 
 
 ## Detector
@@ -57,5 +57,14 @@ Before you will use any of these two script make sure you downloaded my pretrain
 
 Please cite this work if you use any part or this
 
-SICHA, Marek. Detekce dopravních značek v reálném čase. Brno, 2021. Dostupné také z: https://www.vutbr.cz/studenti/zav-prace/detail/133597. Bakalářská práce. Vysoké učení technické v Brně, Fakulta elektrotechniky a komunikačních technologií, Ústav radioelektroniky. Vedoucí práce Tomáš Bravenec.
+~~~~
+@BachelorThesis{SichaBachelor2021,
+  author = {Marek Sicha},
+  title = {Traffic sign detection in real time},
+  school = {Brno University of Technology},
+  address = {Brno},
+  year = {2021},
+  URL = {https://www.vutbr.cz/en/students/final-thesis/detail/133597},
+}
+~~~~
 
