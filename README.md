@@ -39,7 +39,7 @@ Before you will use any of these two script make sure you downloaded my pretrain
 
 ## Results:
 
-**Classifier**
+**Classifier:**
 
 
 ![accuracy](images/accuracy.png)       ![accuracy](images/loss.png)
