@@ -32,7 +32,7 @@ Detector idea is base on [this](https://github.com/zylo117/Yet-Another-Efficient
 
 [efficientdet_test_videos.py](efficientdet_test_videos.py) for detection and classification of video sequences
 
-efficientdet_test.py](efficientdet_test.py) for image detection and clssification
+[efficientdet_test.py](efficientdet_test.py) for image detection and clssification
 
 Before you will use any of these two script make sure you downloaded my pretrained [weights](https://github.com/MarekSicha/Traffic-sign-detection-in-real-time/releases/download/epoch_72/efficientdet-d2_72_36000.pth).
 
