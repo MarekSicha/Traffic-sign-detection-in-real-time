@@ -55,7 +55,7 @@ Before you will use any of these two script make sure you downloaded my pretrain
 ---
 ## Citations
 
-Please cite this work if you use any part or this
+Please cite this work if you use any part of this
 
 ~~~~
 @BachelorThesis{SichaBachelor2021,
