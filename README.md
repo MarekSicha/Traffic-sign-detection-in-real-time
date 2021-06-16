@@ -1,6 +1,6 @@
 # Traffic-sign-detection-in-real-time
 
-This code is part of bachelor´s thesis, focused on Traffic signs detection. The thesis is avaiable [here](https://www.vutbr.cz/studenti/zav-prace/detail/128219).
+This code is part of bachelor´s thesis, focused on Traffic signs detection. The thesis is avaiable [here](https://www.vutbr.cz/studenti/zav-prace/detail/133597).
 
 **This repository contains 2 main parts: Classifier and Detector**
 
